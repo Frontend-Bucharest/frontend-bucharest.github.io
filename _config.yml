@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://frontend-bucharest.github.io
+title: Frontend Bucharest
+subtitle: 
+author: Frontend Bucharest
 simple_search: https://www.google.com/search
-description:
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum molestie sapien leo, ac ultrices dolor accumsan et. Maecenas eros enim, feugiat eu elementum quis, sollicitudin sed elit. Etiam posuere tellus tincidunt mauris tincidunt accumsan. Vivamus egestas risus vel blandit ullamcorper. Vestibulum convallis et arcu ut iaculis. Aenean consequat lacus lobortis nunc tincidunt, ut varius augue egestas. Aenean mi nulla, scelerisque ac odio porttitor, interdum aliquam odio.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: 
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
