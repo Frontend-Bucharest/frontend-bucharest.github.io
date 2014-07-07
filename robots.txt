@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://frontend-bucharest.github.io/sitemap.xml 
